@@ -1,0 +1,12 @@
+C:\Users\Santos.283553\source\repos\FormRegistration\bin\Debug\FormRegistration.exe.config
+C:\Users\Santos.283553\source\repos\FormRegistration\bin\Debug\FormRegistration.exe
+C:\Users\Santos.283553\source\repos\FormRegistration\bin\Debug\FormRegistration.pdb
+C:\Users\Santos.283553\source\repos\FormRegistration\obj\Debug\FormRegistration.csproj.AssemblyReference.cache
+C:\Users\Santos.283553\source\repos\FormRegistration\obj\Debug\FormRegistration.Form1.resources
+C:\Users\Santos.283553\source\repos\FormRegistration\obj\Debug\FormRegistration.FrmFileName.resources
+C:\Users\Santos.283553\source\repos\FormRegistration\obj\Debug\FormRegistration.FrmRegistration.resources
+C:\Users\Santos.283553\source\repos\FormRegistration\obj\Debug\FormRegistration.Properties.Resources.resources
+C:\Users\Santos.283553\source\repos\FormRegistration\obj\Debug\FormRegistration.csproj.GenerateResource.cache
+C:\Users\Santos.283553\source\repos\FormRegistration\obj\Debug\FormRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Santos.283553\source\repos\FormRegistration\obj\Debug\FormRegistration.exe
+C:\Users\Santos.283553\source\repos\FormRegistration\obj\Debug\FormRegistration.pdb
